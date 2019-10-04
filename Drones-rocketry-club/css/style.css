@@ -50,7 +50,7 @@ body{
   text-decoration: none;
 }
 .card{
-  margin-left: 30px;
+  margin-left: 50px;
 }
 .fa-instagram, .fa-brain, .fa-discord, .fa-chalkboard, .fa-github{
   color: black;
@@ -58,4 +58,6 @@ body{
   margin-left: 30px;
   font-size: 50px;
   float: left;
+}
+.news_body{
 }

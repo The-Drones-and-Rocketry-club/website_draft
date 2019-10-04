@@ -1,0 +1,28 @@
+/*
+font-family: 'Poppins', sans-serif;
+font-family: 'Quicksand', sans-serif;
+ */
+body{
+  background-image: url("file:///Users/shefali/Desktop/Drones-rocketry-club/assests%20/galleryback.jpg?time=1570151096516");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main_title{
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: darkgrey; 
+  padding-top: 15px;
+}
+.title{
+  margin-top: 10px;
+  font-family: 'Poppins', sans-serif;
+}
+.line{
+  height: 2px;
+  width: 200px;
+  background-color: lightgray;
+  margin: 0 auto;
+}
